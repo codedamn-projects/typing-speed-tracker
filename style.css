@@ -67,3 +67,15 @@ body{
     color: red;
     text-decoration: underline;
 }
+
+.quote-display span{
+    user-select: none;
+}
+
+.wpm{
+    color: #f7d708;
+    font-size: 30px;
+    font-weight: bolder;
+    margin-top: 3%;
+    text-shadow: 2px 2px 0 black;
+}
