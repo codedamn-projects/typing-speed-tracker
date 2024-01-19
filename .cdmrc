@@ -1,1 +1,2 @@
 tabs: ["script.js", "index.html", "style.css"];
+terminals: ["static-server -p 1337 --no-cache"];
