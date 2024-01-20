@@ -14,7 +14,6 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    height: 100vh;
     background-color: rgb(106, 64, 145);
 }
 
@@ -35,8 +34,8 @@ body{
 }
 
 .timer{
-    position: absolute;
-    top: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
     font-size: 3rem;
     color: #F0DB4F;
     font-weight: bolder;
